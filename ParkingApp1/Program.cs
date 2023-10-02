@@ -8,7 +8,7 @@
 
             parking.cars_on_parking = new List<Car>(); //Creating a new list of cars on parking
 
-            // Code block for adding predefined values to the list of cars on parking
+            // Code  block for adding predefined values to the list of cars on parking
             parking.cars_on_parking.Add(new Car("Ford", "Focus Titanium", "Blue", "AI2012HB", "2023-09-30T14:50:06", "2023-09-30T16:50:06"));
             parking.cars_on_parking.Add(new Car("Audi", "TT", "Silver", "AH3333BK", "2023-10-01T11:17:36", "2023-10-01T14:51:09"));
             parking.cars_on_parking.Add(new Car("Toyota", "RAV-4", "White", "AX5033VT", "2023-10-01T10:33:11", "2023-10-01T16:45:25"));
